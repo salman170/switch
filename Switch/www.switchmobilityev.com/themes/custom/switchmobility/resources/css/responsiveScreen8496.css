@@ -1,0 +1,1410 @@
+@media screen and (max-width: 3050px) and (min-width: 2050px) {
+	.clippedImgBg {
+		height: 800px;
+		width: 95%;
+	}
+
+	.greenBoxLeft {
+		left: -120px;
+	}
+
+	.banner-sm-rightContent {
+		background-position: center 67%
+	}
+	.landingPage-e4  .sliderNextPrev .item .info {min-height: 350px;}
+	.sliderNextPrev .item .info {
+		min-height: 400px;
+	}
+	.banner-sm-caption .text-white {
+		line-height: 60px;
+	}
+	.banner-sm-leftContent img {height:900px}
+
+}
+
+@media screen and (max-width: 3050px) and (min-width: 1900px) {
+	.c-section .carousel-caption .pageNameLg {font-size: 8rem;}
+	.metrodecker .c-section .carousel-caption .pageNameLg {font-size: 5rem;}
+	/* .c-section .carousel-caption {bottom:-85px} */
+ 
+}
+
+@media screen and (max-width: 2060px) and (min-width: 1600px) {
+	.greenBoxLeft {
+		left: -70px;
+	}
+
+	.banner-sm-leftContent img {height:600px}
+
+		.clippedImgBgDiv .parallelogram {
+		left: 60px
+	}
+
+	.banner-sm-rightContent {
+	  background-position: 70%;
+	}
+
+
+	
+}
+
+@media screen and (max-width: 3060px) and (min-width: 1600px) {
+
+	.landingPage-e4 .banner-sm-leftContent {min-height: 725px;}
+	.c-section .carousel-caption h3 {
+		font-size: calc(2px + 25 * ((100vw - 856px) / 1024));
+	}
+	
+	.c-section .carousel-caption h2 span:first-child:after {
+		top: -47px;
+	}
+
+	.c-section .carousel-caption h2 span:last-child::after {
+		top: -37px;
+	}
+	.sliderNextPrev .item h4 {
+		min-height: 70px;
+	}
+	.sliderNextPrev .item .info {min-height: 550px;	}
+	.landingPage-e4  .sliderNextPrev .item .info {min-height:435px;}
+
+	.metrocity  .sliderNextPrev .item .info {min-height: 472px;}
+	.metrodecker .sliderNextPrev .item .info {min-height: 350px;}
+	.metrodecker-es .sliderNextPrev .item .info {min-height: 375px;}
+	.metrocity-es .sliderNextPrev .item .info {min-height: 615px;	}
+ 
+	.landingPageeiV22 .sliderNextPrev .item .info {min-height: 385px;	}
+	.landingPageeiV22-ja .sliderNextPrev .item .info {min-height: 400px;	}
+	.landingPageeiV22-ja .insideBus .carousel-inner .carousel-item .text-center img,
+	.landingPageeiV22-es .insideBus .carousel-inner .carousel-item .text-center img,
+	.landingPageeiV22 .insideBus .carousel-inner .carousel-item .text-center img{    width: 70%;margin:50px auto 0;}
+	.landingPageeiV22-es .sliderNextPrev .item .info {min-height: 445px;	}
+	
+}
+@media screen and (max-width: 1930px) and (min-width: 1600px) 
+{
+	.landingPage-e4-es  .sliderNextPrev .item .info {min-height:500px;}
+}
+ 
+@media screen and (max-width: 1699px) and (min-width: 1599px)  {
+	.sliderNextPrev .item .info {
+		min-height: 450px;
+	}
+	
+	.landingPage-e4 .banner-sm-leftContent {min-height: 600px;}
+	.banner-sm-caption .text-white {
+		line-height: 50px;
+	}
+}
+@media screen and (min-width: 1920px) {
+	.eiv7 .intro .col-lg-10, .ieV .intro .col-lg-8{width: 100%; padding:0;    max-width: 85%;}
+	.tableWithSlider h2 {font-size: 50px;}
+}
+@media screen and (max-width: 2050px) and (min-width: 1920px) {
+
+	.slider .slick-next {
+		right: 225px !important
+	}
+
+
+
+	p {
+		font-size: 18px;
+	}
+
+	.GridSection .counterIcon p {
+		font-size: 21px;
+	}
+
+	.parallelogram {
+		left: 70px;
+	}
+
+	/* .clippedImgBg {
+		height: 500px;
+		width: 91%;
+	} */
+
+	.counterIcon .icon {
+		height: 65px;
+	}
+}
+@media screen and (max-width: 1800px) and (min-width: 1600px)  {
+ 
+	.metrocity-ja .sliderNextPrev .item h4 {min-height: 59px;	}
+	.metrocity-ja .sliderNextPrev .item .info {min-height: 500px;	}
+	.landingPage-e4-es  .sliderNextPrev .item .info {min-height:550px;}
+}
+@media screen and (min-width: 2000px)
+{
+	.landingPage-e4-ja .sliderNextPrev .item .info {min-height: 405px;}
+	.landingPage-e4-es  .sliderNextPrev .item .info {min-height:500px;}
+	.landingPageeiV22-es .banner-sm-leftContent, .landingPageeiV22-ja .banner-sm-leftContent{min-height: 800px;}
+	.prod-pic img {width: 100%;}
+}
+
+@media screen and (max-width:1999px)
+{
+	.landingPage-e4-ja .sliderNextPrev .item .info {min-height: 455px;}
+
+}
+@media screen and (max-width:1599px)
+{
+	.landingPage-e4-ja .sliderNextPrev .item .info {min-height: 275px;}
+	
+}
+@media screen and (min-width: 1600px)
+{
+	.landingPageeiV22-es .clippedImgBg {height: 950px;}
+	.ieV .singleBanner .carousel-item{height:90vh;}
+}
+
+@media screen and (min-width: 992px) {
+	.twoGridSection .row-reverse {
+		margin: 2.5% 0 0 0;
+	}
+}
+@media screen and (max-width: 1500px) 
+{
+	.c-section .carousel-caption img {height: 60px;	}
+}
+@media screen and (max-width: 1400px) 
+{
+	
+	.c-section .carousel-caption .pageNameLg {font-size: 4rem;}
+	.metrodecker .c-section .carousel-caption .pageNameLg {font-size: 3.5rem;}
+	.c-section .carousel-caption h2 {font-size:calc(80px + 25 * ((100vw - 576px) / 1024))}
+ 
+	.landingPage-e4-es  .sliderNextPrev .item .info {min-height:325px;}
+	.metrocity .insideBus .table tr:first-child td , .metrodecker .insideBus .table tr:first-child td {    font-size: 18px;   }
+	/* .landingPage-e4 .c-section .carousel-caption h2, .landingPageeiV22 .c-section .carousel-caption h2{font-size: 4.5rem} */
+}
+@media screen and (max-width: 1350px) 
+{
+
+	.c-section .carousel-caption h2 span:last-child::after {    top: -24px;}
+	.c-section .carousel-caption h2 span:first-child:after {top:-29px}
+}
+@media screen and (max-width: 1400px) and (min-width: 1200px)  {
+.metrocity h2, .metrocity .h2 {
+	font-size: calc(25px + 18 * ((100vw - 576px) / 1024));
+}
+.metrocity .banner-sm-leftContent {    padding: 1% 3% !important;}
+}
+
+@media screen and (max-width: 1369px) {
+	.prod-title .title {font-size: 1.4rem;}
+	.metrocity  .sliderNextPrev .item .info {min-height: 315px;}
+	.metrodecker-es .text-outline{font-size: calc(1.4rem + 21 * ((100vw - 1367px) / 1024));}
+
+	.landingPage-e4  .c-section .carousel-caption, 	.landingPageeiV22  .c-section .carousel-caption {width: 100%;
+		padding: 0 0 15px 100px;
+	}
+	/* .insideBus .carousel-control-next{width: 11%;} */
+	.banner-sm-rightContent {
+		background-position: 50%;
+	}
+
+	.sliderNextPrev .item h4 {
+		min-height: 55px;
+	}
+
+	.odinBanner .carousel-item {
+		background-position: center 30%;
+	}
+	.metrocity .carousel-item {
+		background-position: center 30%;
+	}
+
+	.sliderNextPrev .item .info {
+		min-height: 400px;
+	}
+
+	.bg::after {
+		height: inherit;
+	}
+
+
+	.counterIcon .icon {
+		height: 47px;
+	}
+
+	.greenBoxLeft {
+		left: -60px;
+	}
+
+	.subHeading {
+		font-size: 38px;
+	}
+
+	.tab-content h3 {    font-size: 22px;}
+
+	.GridSection h3 {
+		font-size: 27px;
+	}
+
+	.tabLeft .text-outline {
+		line-height: 50px;
+	}
+}
+
+@media screen and (max-width: 1299px) {
+
+	.metrocity .c-section .carousel-caption, .metrodecker .c-section .carousel-caption, .landingPage .c-section .carousel-caption {    padding: 0 0 20px 50px;}
+	.tab-content h3 {
+		font-size: 21px;
+	}
+	.metrocity-es .sliderNextPrev .item .info { min-height: 410px;}
+	.metrocity-ja .sliderNextPrev .item .info {min-height: 320px;	}
+	.clippedImgBgDiv .parallelogram {
+		left: 35px
+	}
+
+	.clippedDiv {
+		left: 20px;
+	}
+
+	.greenBoxLeft {
+		left: -50px;
+	}
+
+	.sliderNextPrev .item h4 {
+		font-size: 20px;
+	}
+
+	.bg::after {
+		height: 340px;
+	}
+
+	.banner-text {
+		top: 23%
+	}
+
+	.clippedImgBg {
+		background-position: 31%;
+	}
+
+	.banner-sm-leftContent img {
+		height: 500px;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.generic-padding-lg {
+		padding: 6% 0
+	}
+	.eiv7 .singleBanner .carousel-item {    background-position: center;}
+	.landingPageeiV22-es .clippedImgBg {height: 1000px;}
+	.c-section .carousel-caption .pageNameLg {font-size: 3rem;}
+	.metrodecker .c-section .carousel-caption .pageNameLg {font-size: 2.5rem;}
+	.tabLeft {
+		width: 43%;
+		flex: 0 0 43%;
+		padding: 6% 1%;
+	}
+	.landingPage-e4-ja .tabLeft, .landingPageeiV22-ja .tabLeft{padding: 6% 3%;}
+
+	.tabRight {
+		width: 57%;
+		flex: 0 0 57%;
+	}
+.superiorSectionLeft {    flex: 0 0 34.666667%;  max-width: 34.666667%;}
+	.superiorSectionRight{flex: 0 0 57%;   max-width:57%;}
+	.odinBanner .carousel-item, 	.metrocity .carousel-item  {
+		background-position: 0;
+	}
+	 .landingPageeiV22 .carousel-item {	background-position: 60%;}
+	 .landingPageeiV22 #landingBanner .carousel-item {background-position: 0;}
+	 .landingPage-e4 .carousel-item{background-position: 35%;}
+	 .landingPage-e4 .sliderNextPrev .item .info {min-height: 330px;}
+	 .landingPage-e4-es .sliderNextPrev .item .info {min-height: 355px;}
+
+	.c-section .carousel-caption {
+		/* bottom: -90px; */
+		left: 15%;
+	}
+
+	.c-section .carousel-caption h3 {
+		font-size: calc(16px + 20 * ((100vw - 856px) / 1024));
+	}
+
+	.c-section .carousel-caption h2 span:first-child:after {
+		width: 18px;
+		top: -28px;
+		height: 18px;
+	}
+
+	.c-section .carousel-caption h2 span:last-child::after {
+		width: 25px;
+		top: -21px;
+	}
+	.landingPage-e4 .c-section .carousel-caption, .landingPageeiV22 .c-section .carousel-caption, .e1New  .c-section .carousel-caption {padding: 0 0 15px 50px;	}
+	.landingPage-e4 .c-section .carousel-caption h2, .landingPageeiV22 .c-section .carousel-caption h2, .e1New .c-section .carousel-caption h2{font-size: 3rem}
+	.c-section .carousel-caption img {height: 50px;	}
+
+	.landingPageeiV22-es .text-outline{font-size: calc(1.4rem + 21 * ((100vw - 1367px) / 1024));}
+}
+@media screen and (max-width: 1181px) and (min-width: 992px) {
+	.landingPage-e4 .banner-sm-rightContent {background-position: 82%;}
+	.tableWithSlider .carousel-control-prev {left: 130px;	}
+	.tableWithSlider .carousel-control-next {right: 130px;	}
+	.prod-title .title {font-size: 1.2rem;}
+}
+
+@media screen and (min-width:991px) and (max-width:1199px) and (orientation:portrait){
+
+	.ieV .singleBanner .carousel-item {background: url(../images/ieV/Iev-series-tab-banner.jpg);background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;}
+		
+	.insideBus .carousel-inner .carousel-item .col-lg-6.text-center img{display: none !important;}
+	.insideBus .carousel-inner .carousel-item  .col-lg-5.col-md-12.offset-lg-1.pr-3 {    flex: 100% !important; max-width: 100% !important;    width: 100% !important;		margin-left: 0 !important;}
+	.insideBus .carousel-inner .carousel-item  .col-lg-5.col-md-12.offset-lg-1.pr-3 .col-sm-12 img {display: block !important;}
+	  .landingPageeiV22-ja .clippedImgBg {    height: 850px;}
+	.landingPageeiV22-es .clippedImgBg {     height: 1000px;    background-position: left;}  
+	 
+	}
+
+	@media screen and (max-width: 1199px) and (min-width: 992px)  and (orientation:landscape){
+		.tableWithSlider .carousel-control-prev {left: 130px;	}
+		.tableWithSlider .carousel-control-next {right: 130px;	}
+		.tableSliderBlue td:first-child {width: auto;}
+		.tableSliderGreen td:first-child { width: auto;}
+	}
+	@media screen and (min-width:768.99px) and (max-width:1025px) and (orientation:landscape){
+		
+		.insideBus .carousel-inner .carousel-item .col-lg-6.text-center img{display: none !important;}
+		.insideBus .carousel-inner .carousel-item  .col-lg-5.col-md-12.offset-lg-1.pr-3 {    flex: 100% !important; max-width: 100% !important;    width: 100% !important;		margin-left: 0 !important;}
+		.insideBus .carousel-inner .carousel-item  .col-lg-5.col-md-12.offset-lg-1.pr-3 .col-sm-12 img {display: block !important;}
+		 .landingPageeiV22-ja .clippedImgBg {    height: 850px;}
+		.landingPageeiV22-es .clippedImgBg {    height: 1000px;    background-position: left;}  
+	
+		}
+		@media screen and (min-width:600.99px) and (max-width:1025px) and (orientation:landscape){
+			.ieV .mainBanner-text {top:30px}
+		}
+@media screen and (max-width: 1119px) and (min-width: 992px) {
+	.clippedBlueImage img {
+		height: 400px
+	}
+
+	.metrocity .insideBus .table tr td {padding: 8px 3px;}
+
+	.tabLeft .text-outline {
+		font-size: calc(1.8rem + 21 * ((100vw - 1367px) / 1095));
+	}
+	.landingPage-e4 .tabLeft .text-outline {font-size: calc(1.4rem + 21 * ((100vw - 1367px) / 1095));}
+	.landingPageeiV22 .tabLeft .text-outline {font-size: 18px;}
+	.landingPageeiV22-es .tabLeft .text-outline {font-size: 16px;	}
+	.landingPageeiV22 .tabCenterContent {padding-left: 0;}
+	.sliderNextPrev .item .info {
+		min-height: 450px;
+	}
+	.metrocity .text-outline {	font-size: calc(1.4rem + 21 * ((100vw - 1367px) / 1024));}
+	.metrodecker-es .tabLeft .text-outline{font-size: calc(1.4rem + 21 * ((100vw - 1367px) / 1024));}
+	.metrocity-es .text-outline {font-size: calc(1.1rem + 18 * ((100vw - 1367px) / 1024));	}
+}
+
+@media screen and (max-width: 1030px) {
+	.tableWithSlider .buttonGroup {display: none;}
+	.tableSliderRight {margin-top: 0;}
+	.landingPageeiV22-es .sliderNextPrev .item .info {	min-height: 329px;	}
+	.landingPage-e4 .c-section .carousel-caption, .landingPageeiV22 .c-section .carousel-caption, .e1New .c-section .carousel-caption {padding: 0 0 15px 50px;	}
+	.metrodecker .insideBus .table tr:first-child td {    white-space: initial;}
+	.banner-sm-leftContent img {
+		height: 450px;
+	}
+	.landingPage-e4-es .sliderNextPrev .item .info {min-height: 380px;	}
+	.banner-sm-caption .text-white {
+		line-height: 30px;
+	}
+
+	.c-section__layers {
+		top: 0;
+		position: absolute;
+		height: 100vh;
+	}
+
+	.subHeading {
+		font-size: 2.3rem;
+	}
+
+	.counter .icon {
+		height: 40px;
+	}
+
+	.GridSection h3 {
+		font-size: 1.3rem;
+	}
+
+	.bg::after {
+		height: inherit;
+	}
+
+	.tab-pane h3 {
+		padding-bottom: 0;
+	}
+}
+@media screen and (max-width: 1199.55px) and (min-width: 768px) 
+{
+	.aboutCompanyBackground {min-height: 50vh !important;}
+
+}
+
+@media screen and (max-width: 991.99px) {
+	.eiv7 	.intro img {width: 60%;}
+	.tableWithSlider .carousel-control-prev {left: 180px;	}
+	.tableWithSlider .carousel-control-next {right: 180px;	}
+	.ieV .singleBanner .carousel-item{background: url(../images/ieV/Iev-series-tab-banner.jpg);height:840px; width: 100%; background-position: center;    background-repeat: no-repeat;   background-size: cover;}
+	.eiv7 .singleBanner .carousel-item{background: url(../images/eiv7/EiV-mobile-banner.jpg);height:85vh; background-position: center;    background-repeat: no-repeat;   background-size: cover;}
+	.eiv7 .singleBanner .carousel-item .caption img {    width: 50%;}
+
+		.eiv7 .singleBanner .carousel-item .caption {    margin-top: 1rem;}
+		.eiv7 .singleBanner .carousel-item .caption img {
+			margin: 0.4rem 0 0.2rem 0;
+		}
+		.eiv7 .singleBanner .carousel-item {align-items: start;}
+	.eiv7 .singleBanner .carousel-item  .caption {margin-top: 1rem;text-align: center;}
+	.eiv7 .singleBanner .carousel-item  .caption .col-lg-8.col-md-12.offset-md-1{margin:0}
+
+	.tableWithSlider .slick-next {    right: 0;}
+	.tableWithSlider .slick-prev {left: 0;	}
+	.product-range-Section .product-range-SingleProduct .produtName h3 {    font-size: 20px;}
+	.tableWithSlider .slick-prev, .tableWithSlider .slick-next {top: 104%;	}
+	.intro h2 br {display: none;}
+ .tableWithSlider .tableSlider {padding:0 !important; margin:0 32px}
+ .tableWithSlider h2 {    margin-bottom: 2rem; text-align: center;}
+ .tableSliderBlue td:first-child {width: auto;}
+ .tableSliderGreen td:first-child { width: auto;}
+ .tableSliderRight {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ .tableWithSlider .buttonGroup {display: none;}
+	.insideBus .carousel-control-next,
+	.insideBus .carousel-control-prev {
+		display: none;
+	}
+	
+	.banner-sm-leftContent svg {display: none;}
+	.metrocity-es .sliderNextPrev .item .info { min-height: 340px;}
+	.c-section .carousel-caption .pageNameLg {
+		font-size: 4rem;
+		line-height: inherit;
+	}
+	.landingPage-e4-es .sliderNextPrev .item .info {min-height: 330px;	}
+	.metrodecker .banner-sm-rightContent { height: 500px;    flex: 100%; width: 100%;max-width: 100%;}
+ 
+	.metrodecker .banner-sm-leftContent {display: none;}
+	.metrodecker .c-section .carousel-caption .pageNameLg {font-size: 3rem;	line-height: inherit;}
+
+	.metrocity .tabLeft {padding: 0;}
+.landingPage-e4	.banner-sm-leftContent, 	.landingPageeiV22 .banner-sm-leftContent	  {flex: 0 0100%; max-width:100%;    padding: 25px !important;}
+.metrocity .banner-sm-leftContent {flex: 0 0100%; max-width:100%;}
+.landingPage-e4 .banner-sm-rightContent, .landingPageeiV22 .banner-sm-rightContent, .metrocity .banner-sm-rightContent  {display: none;}
+.superiorSectionLeft {    flex: 0 0 100%;  max-width: 100%;    padding: 25px !important;}
+	.superiorSectionRight{flex: 0 0 100%;   max-width:100%;}
+.landingPage-e4 .banner-sm-leftContent img, .landingPageeiV22 .banner-sm-leftContent img, .metrocity .banner-sm-leftContent img  {width: 100%;
+    height: inherit;}
+	.tabLeft {
+		width: 100%;
+		flex: 0 0 100%;
+
+	}
+	.metrocity .tabCenterContent {min-height: 400px;display: flex;align-items: center;}
+	.metrodecker .tabCenterContent {min-height: 400px;display: flex;align-items: center;}
+	.insideBus .customTable .table-responsive {
+		position: static;
+		left: 0;
+	}
+	.banner-sm-caption {
+		padding-right: 15%;
+	}
+	.metrodecker .banner-sm-caption {padding-right: 0;padding-bottom: 30px;}
+	.metrodecker-es .banner-sm-caption {padding-left: 0;}
+	.insideBus button.customBtn {
+		margin-top: 5%;
+	}
+
+	.insideBus {
+		padding: 5% 0;
+	}
+
+	.tabRight {
+		width: 100%;
+		flex: 0 0 100%;
+	}
+
+	.squareList {
+		margin: 0 0 10% 0%;    
+	}
+.landingPageeiV22 .squareList,.landingPage-e4 .squareList {padding: 25px 20px !important;}
+ 
+.landingPageeiV22 .paddingLeft {padding-left: 15px !important;}
+.customPadding {padding: 25px !important;}
+.landingPageeiV22 .tabCenterContent {padding:0 !important}
+	.clippedGreenImg {
+		background-image: none;
+		height: initial;
+		clip-path: none
+	}
+
+	/* .landingPage-e4 .clippedImgBg, 	.landingPageeiV22 .clippedImgBg  {
+		background: none;
+		height: initial;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		clip-path: none;
+	} */
+.landingPageeiV22 .clippedImgBg picture img, .landingPage-e4 .clippedImgBg picture img{display: none !important;}
+.landingPage-e4 .clippedImgBg, .landingPageeiV22 .clippedImgBg {    height: 500px;}
+.landingPageeiV22-es .tab-pane:nth-child(3) .tabRightImage, .landingPageeiV22-ja .tab-pane:nth-child(3) .tabRightImage  {background-position: center 10%;}
+.landingPage-e4-es .tab-pane:nth-child(4) .tabRightImage {background-position: center 10%;}
+	.clippedImgBg {
+		background: none;
+		height: initial;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		clip-path: none;
+	}
+
+	.clippedGreenBg,
+	.clippedGreenImg {
+		max-width: 100%;
+		flex: 0 0 100%;
+	}
+
+	.clippedDiv {
+		visibility: hidden;
+	}
+
+	.clippedImgBgDiv .parallelogram {
+		display: none
+	}
+
+	.GridSection {
+		padding: 2% 2%;
+	}
+
+	.clipped,
+	.clippedGreenImg img,
+	.clippedGreenBg,
+	.clippedBlueBg,
+	.bg img {
+		clip-path: none;
+	}
+
+	.clippedGreenImg img {
+		transform: initial;
+	}
+
+	.slideGrid .slick-dots li.slick-active button:before {
+		font-size: 8px;
+	}
+
+
+
+	.tab-pane h3 {
+		font-size: 24px;
+		margin-bottom: 3%;
+	}
+
+	.landingPage .tabRightImage {
+		background-size: contain;
+	}
+
+	.slick-dots {
+		left: 0 !important;
+	}
+
+	.banner-text {
+		width: 35%;
+	}
+
+	.footer .socialMedia a {
+		margin-right: 1%;
+	}
+
+	.subHeading br {
+		display: none;
+	}
+
+	.clippedGreenBg {
+		padding: 4% 0 2%;
+	}
+
+	.clippedGreenImg,
+	.clippedBlueImage {
+		padding: 0
+	}
+
+	.clippedGreenImg img,
+	.clippedBlueImage img {
+		width: 100%;
+	}
+
+	.row-reverse {
+		flex-direction: column-reverse;
+	}
+
+	.table td,
+	.table th {
+		padding: 12px 12px;
+	}
+
+	
+
+	.sliderNextPrev .item .info {
+		padding: 6% 7% 8% 7%;
+	}
+
+	.sliderNextPrev.slick-slider:not(.slick-vertical):not(.general-carousel) {
+		padding: 0
+	}
+
+	.sliderNextPrev .slick-prev {
+		z-index: 9;
+
+	}
+
+	.greenBoxLeft {
+		display: none !important;
+	}
+
+	.slick-dots li button:before {
+		display: none;
+	}
+
+	.slideGrid .slick-dots li.slick-active {
+		background: #00c389;
+	}
+
+	.slideGrid .slick-dots li {
+		background: #ddd;
+		border-radius: 50%;
+	}
+
+	.tabLeft .nav-pills {
+		white-space: nowrap;
+		height: 70px;
+		width: 100%;
+		overflow-x: auto;
+		overflow-y: hidden;
+	}
+
+	.tabLeft .nav-item {
+		display: inherit;
+		background-color: #0c4bb5;
+		position: relative;
+		margin: 0 !important;
+		padding: 10px 5px 10px 5px;
+	}
+
+	.tabLeft .nav-pills .nav-link.active::before,
+	.tabLeft .nav-pills .nav-link::before {
+		display: none;
+	}
+
+
+	.tabLeft .text-outline {
+		font-size: 1.5rem;
+	}
+
+	.tabLeft {
+		padding: 0;
+		background-color: transparent
+	}
+
+	.tabLeft .nav-item:before {
+		content: "";
+		border-color: transparent transparent;
+		border-style: solid;
+		border-width: 10px 10px 10px 0px;
+		display: block;
+		height: 0;
+		width: 0;
+		left: 50%;
+		top: 31px;
+		position: relative;
+		transform: rotate(-90deg);
+	}
+
+	.tabLeft .TabArrowNavItem:before {
+		content: "";
+		border-color: transparent #0c4bb5;
+		border-style: solid;
+		border-width: 10px 10px 10px 0px;
+		display: block;
+		height: 0;
+		width: 0;
+		left: 50%;
+		top: 31px;
+		position: relative;
+		transform: rotate(-90deg);
+	}
+
+	.tabLeft .TabArrowNavItem::marker {
+		content: "▶";
+	}
+
+	.tabLeft .text-outline {
+		line-height: initial;
+	}
+
+	.tabLeft .nav-item span {
+		display: none;
+	}
+
+	.tabLeft .nav-item:last-child {
+		margin-bottom: 0;
+	}
+	.c-section .carousel-caption img {
+		height: 40px;
+	}
+	.metrocity .banner-sm-leftContent .text-left{padding-left: 0 !important;}
+	
+}
+@media screen and (min-width:768.99px) and (max-width:1025px) and (orientation:landscape){
+	.eiv7 .singleBanner .carousel-item{background: url(../images/eiv7/EiV7-banner.jpg);height:85vh;    background-repeat: no-repeat;
+		background-size: cover;    background-position: top;}
+
+		.eiv7 .singleBanner .carousel-item .caption img {    width: 36%;}
+
+		.eiv7 .singleBanner .carousel-item .caption {    margin-top: 1rem;}
+		.eiv7 .singleBanner .carousel-item .caption img {
+			margin: 0.4rem 0 0.2rem 0;
+		}
+		.eiv7 .singleBanner .carousel-item {align-items: center;}
+	.eiv7 .singleBanner .carousel-item  .caption {margin-top: 0;text-align: left;}
+	.eiv7 .singleBanner .carousel-item  .caption .col-lg-8.col-md-12.offset-md-1{margin:6.333333%}
+}
+@media screen and (max-width: 850.99px) and (min-width:768px)  {
+	.c-section .carousel-caption img { height: 75px;}
+}
+@media screen and (max-width: 850.99px) {
+	.tabCenterContent {
+		padding-bottom: 0;
+	}
+	.metrocity .c-section .carousel-caption, .metrodecker .c-section .carousel-caption {       left: 0;
+		padding:0 0 20px 0px; bottom: 0;
+		transform: initial;
+		width:100%;
+		text-align: center;}
+		.metrocity .c-section .carousel-caption h4, .metrodecker .c-section .carousel-caption h4  {text-align: center;}
+		 
+		
+		.metrocity .insideBus .table tr:first-child td, .metrodecker .insideBus .table tr:first-child td {    white-space: nowrap;}
+	#carousel {
+		display: none;
+	}
+	.landingPage-e4 #carousel, .landingPageeiV22 #carousel{display: block;}
+	.landingPage-e4 #landingBanner, 	.landingPage-e4 .mouse_scroll, .landingPageeiV22 #landingBanner, 	.landingPageeiV22 .mouse_scroll{display: none;}
+	#landingBanner {
+		display: block;
+	}
+	.sliderNextPrev .item .info {
+		min-height: 425px;
+	}
+
+	.banner-sm-rightContent {
+		background-position: right;
+	}
+
+	.c-section .carousel-caption {
+		left: 25%;
+	}
+	/* .e1New .c-section .carousel-caption {width: 85%; padding: 0; margin: 0 auto; bottom: 60px;} */
+	.e1New .c-section .carousel-caption img {width: 100%;}
+.landingPage-e4  .c-section .carousel-caption, .landingPageeiV22  .c-section .carousel-caption, .e1New  .c-section .carousel-caption {
+	left: 0;
+    padding: 0 0 20px 0px;
+    bottom: 0;
+    transform: initial;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.landingPage-e4 .c-section .carousel-caption h2, .landingPageeiV22 .c-section .carousel-caption h2 {line-height: initial;}
+
+	.c-section .carousel-caption h2 span:first-child:after {
+		width: 15px;
+		top: -20px;
+		height: 15px;
+	}
+
+	.c-section .carousel-caption h2 span:last-child::after {
+		width: 23px;
+		top: -13px;
+	}
+
+	.c-section .carousel-caption h3 {
+		margin-bottom: 0;
+		font-size: 20px;
+	}
+
+	.odinBanner .carousel-item, .metrocity .carousel-item {background-position: 45%;}
+	.landingPage-e4 .carousel-item{background-position: 35%;}
+	.landingPageeiV22 .carousel-item {	background-position: 60%;}
+	
+}
+@media screen and (max-width: 770.97px) 
+{
+	.landingPage-e4 .carousel-item{background-position: 30%;}
+	.landingPage-e4-es .sliderNextPrev .item .info {min-height: 375px;	}
+}
+@media screen and (max-width: 767.97px) {
+	
+	.tableWithSlider .carousel-control-prev {left: 130px;	}
+		.tableWithSlider .carousel-control-next {right: 130px;	}
+	.tableWithSlider .slick-next {
+		right: 182px;
+	}
+	.tableWithSlider .slick-prev {
+		left: 182px;
+	}
+	.ieV .singleBanner .carousel-item{background: url(../images/ieV/Iev-series-mobile-banner.jpg);height:85vh; background-position: center;    background-repeat: no-repeat;   background-size: cover;}
+	
+
+	.product-range-Section .d-grid {grid-template-columns: 1fr;}
+	.eiv7 .banner p {font-size: 45px;} 
+		.landingPage-e4 .clippedImgBg, 	.landingPageeiV22 .clippedImgBg  {
+		background: none;
+		height: initial;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		clip-path: none;
+	}
+
+.landingPageeiV22 .clippedImgBg picture img, .landingPage-e4 .clippedImgBg picture img{display: block !important;}
+ 
+	.metrocity .c-section .carousel-caption, .metrodecker .c-section .carousel-caption{ left: 0;     padding-bottom: 20px;  transform: initial;		width: 100%;
+		text-align: center;}
+		.metrocity-es .sliderNextPrev .item .info { min-height: 375px;}
+	.c-section .carousel-caption .pageNameLg {font-size: 3rem;display: block;}
+	.metrodecker .c-section .carousel-caption .pageNameLg  {font-size: 2rem;display: block;}
+	.banner-sm-leftContent img {
+		height: auto;
+	}
+
+	.twoGridSection {
+		margin-top: 4%;
+	}
+
+	.clippedImgBgDiv {
+		padding-left: 0;
+	}
+
+	.slick-slider:not(.slick-vertical):not(.general-carousel) {
+		padding: 0 20px;
+	}
+
+	.clipped {
+		margin-top: 5%;
+	}
+
+	.clippedLeft {
+		clip-path: none;
+	}
+
+
+	.greyBg .table-responsive {
+		margin-top: 5%;
+	}
+
+	.subHeading br {
+		display: none;
+	}
+
+
+	.GridSection hr {
+		margin: 0% auto 4%;
+	}
+
+	.counterIcon br {
+		display: none
+	}
+
+	.GridSection .counter {
+		margin-top: 1%;
+	}
+
+	.clippedDiv {
+		display: none;
+	}
+	.landingPage-e4 #carousel, .landingPageeiV22 #carousel{display: none;}
+.landingPage-e4 #landingBanner, .landingPageeiV22 #landingBanner{display: block;}
+.banner-block .main-slider h2 {font-size: 18px;}
+}
+
+@media screen and (max-width: 680.97px) {
+	.tableWithSlider .slick-prev {left:0}
+	.tableWithSlider .slick-next {right: 0;	}
+	.tableWithSlider .slick-prev, .tableWithSlider .slick-next {
+		top: 106%;
+	}
+	.tableSliderRight {    margin-top: 1rem;}
+	.landingPage .tabRightImage {
+		background-size: cover;
+	}
+	.tableWithSlider {padding: 3rem 0;}
+	.intro p.text-blue {font-size: 17px;}
+	.singleBanner h3 {font-size: 27px;}
+	.product-range-Section .product-range-SingleProduct .produtName h3 {font-size: 19px;}
+
+	.insideBus .imageSize {width: 100%;}
+	.banner-sm-caption {
+		padding-top: 4% !important;
+	}
+
+	.metrocity-es .sliderNextPrev .item .info { min-height: 440px;}
+	.metrocity-ja .sliderNextPrev .item h4 {min-height: 50px;	}
+	.metrocity-ja .sliderNextPrev .item .info { min-height: 380px;}
+	/* .c-section .carousel-caption h2 {
+		word-spacing: -30px;
+	} */
+
+	.landingPage .generic-padding-lg {
+		padding-bottom: 10%;
+	}
+}
+
+@media screen and (max-width: 574.97px) {
+	.intro img {width: 60%;}
+	.eiv7 	.intro img {width: 60%;} 
+	.tableWithSlider .carousel-control-prev {left: 80px;	}
+		.tableWithSlider .carousel-control-next {right: 80px;	}
+	.ieV .singleBanner .carousel-item{background: url(../images/ieV/Iev-series-mobile-banner.jpg);height:400px; width: 100%; background-position: center;    background-repeat: no-repeat;   background-size: cover;}
+	.eiv7 .singleBanner .carousel-item{background: url(../images/eiv7/EiV-mobile-banner.jpg);  height: 400px;
+		width: 100%;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;}
+		.eiv7 .singleBanner h4 {font-size: 22px;}
+		
+	.ieV .mainBanner-text {    top: 25px;}
+	.ieV .mainBanner-text img{width: 60%;}
+	.tableSliderRight p {    font-size: 30px;		line-height: initial;}
+	.intro h3.text-blue {
+		font-size: 24px;
+	}
+
+	.squareList {margin: 0 0 10px 0%;	}
+	.landingPage-e4 .c-section .carousel-caption h2, .landingPageeiV22 .c-section .carousel-caption h2,
+	.e1New .c-section .carousel-caption h2{font-size: 2.5rem}
+	 
+	.metrocity .c-section .carousel-caption h4, .metrodecker .c-section .carousel-caption h4 {
+		font-size: 20px;text-align: center;
+	}
+	.landingPageeiV22 .sliderNextPrev .slick-prev, .landingPageeiV22 .sliderNextPrev .slick-next {    top: 105%;}
+	.landingPage-e4 .table-responsive {
+		overflow-x: scroll;
+		border: 1px solid black;
+
+	
+	}
+	 .metrocity-es .sliderNextPrev .item h4, 	.metrocity-ja .sliderNextPrev .item h4  {min-height: initial;}
+	.metrocity-es .sliderNextPrev .item .info { min-height: 375px;}
+ 
+	.metrocity-ja .sliderNextPrev .item .info { min-height: 310px;}
+	.landingPage-e4 .table-responsive::-webkit-scrollbar {
+		-webkit-appearance: none;
+	}
+	
+	.landingPage-e4 .table-responsive::-webkit-scrollbar:vertical {
+		width: 5px;
+	}
+	
+	.landingPage-e4 .table-responsive::-webkit-scrollbar:horizontal {
+		height: 3px;
+	}
+	
+	.landingPage-e4 .table-responsive::-webkit-scrollbar-thumb {
+		border-radius: 8px;
+		border: 2px solid white; /* should match background, can't be transparent */
+		background-color: rgba(0, 0, 0, .5);
+	}
+
+
+	 
+
+	.sliderNextPrev .item .info {
+		padding: 8% 6% 8% 6%;
+	}
+	.text-outline {-webkit-text-fill-color:#fff;opacity: 0.8;}
+	.text-outline.active {opacity: 1;}
+	.insideBus button.customBtn {display: flex; margin: 2% auto 0;}
+	.metrocity .insideBus button.customBtn {margin: 5% auto 5% !important;}
+	.banner-sm-caption .text-white {
+		line-height: 27px;
+	}
+	.modal.enquiry .error-msg, .modal.download .error-msg{    margin-left: 5px;}
+		.banner-sm-caption {
+		padding-right: 5% !important;
+		padding-top: 6% !important;
+	}
+	.landingPage-e4 .sliderNextPrev .item .info {
+		min-height: 275px;
+	}
+	.landingPage-e4-es .sliderNextPrev .item .info {
+		min-height: 325px;
+	}
+	.sliderNextPrev .item .info {
+		min-height: 325px;
+	}
+	.landingPage .tab-pane:nth-child(1) .tabRightImage{background: url(../images/odin/battery-tech-mobile-new-img.jpg); background-position: center;    background-size: cover;background-repeat: no-repeat;} 
+
+	.metrodecker .tab-pane:nth-child(1) .tabRightImage{background: url(../images/metrodecker/designed-for-efficiency.jpg); background-position: center;    background-size: cover;background-repeat: no-repeat;} 
+
+	.metrocity .tab-pane:nth-child(1) .tabRightImage{background: url(../images/metrocity/advanced-NMC-battery.jpg); background-position: center;    background-size: cover;background-repeat: no-repeat;} 
+
+	.landingPage-e4 .tab-pane:nth-child(1) .tabRightImage{background: url(../images/odin/light-weight-mobile.jpg); background-position: center;    background-size: cover;background-repeat: no-repeat;} 
+
+	/* .landingPageeiV22 .tab-pane:nth-child(1) .tabRightImage{background: url(../images/eiV22/technology.jpg); background-position: center;    background-size: cover;background-repeat: no-repeat;}  */
+
+	.landingPageeiV22  .tabRightImage, .landingPage-e4 .tabRightImage{display: none;}
+	.landingPage .tab-pane:nth-child(2) .tabRightImage{background: url(../images/odin/light-weight-mobile.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;}
+
+	.metrocity .tab-pane:nth-child(2) .tabRightImage{background: url(../images/metrocity/best-in-class-mobile.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;}
+
+
+	.metrodecker .tab-pane:nth-child(2) .tabRightImage{background: url(../images/metrodecker/duaranteed-quality.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;}
+
+
+	.landingPage-e4  .tab-pane:nth-child(2) .tabRightImage{background: url(../images/odin/battery-tech-mobile-new-img.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;}
+
+	/* .landingPageeiV22  .tab-pane:nth-child(2) .tabRightImage{background: url(../images/eiV22/safety.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;} */
+
+	.landingPage .tab-pane:nth-child(3) .tabRightImage{background: url(../images/odin/customer-first-mobile.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; }
+
+	.metrodecker .tab-pane:nth-child(3) .tabRightImage{background: url(../images/metrodecker/planet-saving.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; }
+
+	.metrocity .tab-pane:nth-child(3) .tabRightImage{background: url(../images/metrocity/connectedSol.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; }
+
+
+
+	/* .landingPageeiV22 .tab-pane:nth-child(3) .tabRightImage{background: url(../images/eiV22/customer-first-img.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; } */
+
+
+
+	.rightSticky button:nth-child(2):hover, .stickybtn:hover {background-color:transparent }
+	.landingPage .tab-pane:nth-child(4) .tabRightImage {background: url(../images/odin/lowest-tco-mobile.jpg);     background-position: left; background-size: cover;background-repeat: no-repeat;}
+
+
+	/* .landingPageeiV22 .tab-pane:nth-child(4) .tabRightImage {background: url(../images/eiV22/aftersales.jpg);     background-position: left; background-size: cover;background-repeat: no-repeat;} */
+
+
+	.landingPage-e4 .tab-pane:nth-child(4) .tabRightImage{background: url(../images/odin/customer-first-mobile.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; }
+	.metrocity .tab-pane:nth-child(4) .tabRightImage{background: url(../images/metrocity/made-for-environment.jpg); background-size: cover;background-position: center;background-repeat: no-repeat; }
+
+	.landingPage-e4 .tab-pane:nth-child(3) .tabRightImage {background: url(../images/odin/lowest-tco-mobile.jpg);     background-position: left; background-size: cover;background-repeat: no-repeat;}
+
+
+	.c-section .carousel-caption {
+	    left: 30%;
+    padding: 0;
+    bottom: -50px;
+    width: 100%;
+	}
+
+	.rightSticky span:nth-child(2)  {
+		display: block;
+	}
+  .rightSticky button:nth-child(2) span:nth-child(2){position: relative;}
+	  .rightSticky button:nth-child(2) span:nth-child(1) svg{    position: absolute;
+		top: -13px;
+		right: 10%;}
+	.rightSticky span svg {width: 28px;
+		height: 28px;}
+	.rightSticky span svg	path {
+		fill: #505bfe;
+	}
+	.rightSticky {
+		right: 11%;
+		top: 15px;
+	}
+	.rightSticky button:nth-child(1){padding: 0;}
+	.rightSticky button:nth-child(1) span{    position: relative;}
+  .rightSticky button:nth-child(2) {    padding: 0 0 0 8px;    }
+  .rightSticky button:nth-child(2) span i {font-size: 1.3rem;}
+	.stickybtn, .rightSticky button:nth-child(2) {
+ 
+		background-color: transparent;
+    color: #505bfe;
+    font-size: 1.5rem;
+	}
+
+	.rotateText {
+		transform: initial;
+		-webkit-transform: initial;
+		-moz-transform: initial;
+		-o-transform: initial;
+		-ms-transform: initial;
+		display: none !important;
+	}
+
+	.rightSticky {
+		margin: 0;
+		-webkit-transform-origin: initial;
+		-moz-transform-origin: initial;
+		-ms-transform-origin: initial;
+		-o-transform-origin: initial;
+		transform-origin: initial;
+		-webkit-transform: initial;
+		-moz-transform: initial;
+		-ms-transform: initial;
+		-o-transform: initial;
+		transform: initial;
+	}
+
+ 
+
+	.sub-banner {
+		margin-bottom: 5%;
+	}
+
+	.video-container {
+		margin-top: 5%
+	}
+
+	.banner-sm-caption h2 {
+		margin: 0;
+	}
+
+	.insideBus .carousel-indicators {
+		bottom: 0;
+	}
+
+	.insideBus .carousel-inner {
+		padding-bottom: 12%;
+	}
+
+	/* .odinGallery {display: block;} */
+	/* .odinGallery .tile img {height: initial; margin-bottom: 7px;} */
+	.odinGallery {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.GridSection {
+		padding: 2% 4%;
+	}
+
+	.landingPage .generic-padding-lg {
+		padding-bottom: 18%;
+	}
+
+	.modal .modal-dialog {
+		max-width: 80%;
+		margin: 65px auto;
+	}
+
+	.twoGridSection {
+		margin-top: 8%;
+	}
+
+
+
+
+	.downloadBrochure {
+		margin-top: 10%;
+	}
+
+	.sliderNextPrev .item h4 {
+		min-height: initial;
+	}
+
+	.counterIcon .icon {
+		height: inherit;
+	}
+
+	.counter-box {
+		margin-top: 3%;
+	}
+
+	.banner-sm-leftContent {
+		-ms-flex: 0 0 33.333333%;
+		flex: 0 0 33.333333%;
+		max-width: 33.333333%;
+	}
+
+	.banner-sm-rightContent {
+		-ms-flex: 0 0 66.666667%;
+		flex: 0 0 66.666667%;
+		max-width: 66.666667%;
+	}
+
+	.banner-sm-rightContent {
+		background-position: 50%;
+	}
+
+	.banner-sm-leftContent img {
+		width: 85%;
+	}
+
+	.landingPage-e4 .banner-sm-leftContent img {
+		width: 100%;
+	}
+	.metrodecker .banner-sm-rightContent { height: 400px;  background-position: center;   }
+ 
+}
+
+@media screen and (max-width: 480.97px) {
+	.tableWithSlider .carousel-control-prev {left: 60px;	}
+	.tableWithSlider .carousel-control-next {right: 60px;	}
+	.landingPage-e4-es .sliderNextPrev .item .info  {min-height: 340px;	}
+	.landingPage-e4-ja .sliderNextPrev .item .info{min-height: 300px;	}
+	.recruitmentForm label{    font-size: 17px;}
+	.metrocity .insideBus .table tr:first-child td, .metrodecker .insideBus .table tr:first-child td  {line-height: 25px;}
+	.banner-sm-leftContent h2.text-white.text-left.pb-4{    font-size: 1.8rem;}
+	.c-section .carousel-caption {
+		bottom: -55px;
+	}
+ 
+	.metrocity #landingBanner .carousel-item {background-position: center;}
+	.metrodecker #landingBanner .carousel-item {background-position: center;}
+	.metrocity .tabCenterContent {min-height: 300px;}
+	.metrodecker .tabCenterContent {min-height: 300px;}
+	.insideBus .table tr td {    width:50%;		line-height: 19px;}
+ 
+	.insideBus .tableWithBorderBottom .table tr td{    width: 62%;}
+ 
+
+	#landingBanner .carousel-item {
+		height: 70vh;
+	}
+	.banner-sm-rightContent {
+		background-position: right;
+	}
+	.tabLeft .text-outline {
+		font-size: 1.1rem;
+	}
+
+	.rightSticky {
+		right:14%;
+		 
+	}
+	.rightSticky button:nth-child(2) {
+		padding: 0 0 0 8px;
+	}
+	.tabLeft .TabArrowNavItem:before {
+		top: 27px;
+	}
+
+	.twoGridSection {
+		margin-top: 8%;
+	}
+
+	.banner-sm-caption h2 {
+		font-size: 24px;
+	}
+
+
+	.tabLeft {
+		padding: 2% 0 0;
+	}
+
+	.subHeading {
+		font-size: 1.8rem;
+	}
+
+	.clippedDiv {
+		left: 8px;
+	}
+
+	.tab-pane h3 {
+		font-size: 18px;
+    padding-bottom: 2% !important;
+    letter-spacing: 1px;
+	}
+
+	.banner-text {
+		width: 90%;
+		top: 50%;
+		-webkit-transform: translate(0%, 50%);
+		transform: translate(0%, 50%);
+		left: 5%;
+	}
+
+	.twoGridSection h2 {
+		font-size: 28px;
+	}
+
+}
+@media screen and (max-width: 416px) {
+	.metrocity .c-section .carousel-caption h2, .metrodecker .c-section .carousel-caption h2  {font-size: 2rem;   }
+.rightSticky{    right: 16%;   top: 15px;}
+	.metrocity .c-section .carousel-caption h4, .metrodecker .c-section .carousel-caption h4 {
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 450px) {
+	.banner-sm-caption h2 {
+		font-size: 20px;
+	}
+ 
+	.c-section .carousel-caption {
+		/* left: 32%; */
+		left: 32%;
+    width: 100%;
+	}
+	.c-section .carousel-caption h2 {font-size: 70px}
+
+	.banner-sm-caption .text-white {
+		line-height: 20px;
+	}
+
+	.squareList li {
+		font-size: 15px;
+	}
+	.sliderNextPrev .slick-prev, .sliderNextPrev .slick-next {top: 103.5%;}
+}
+
+@media screen and (max-width: 400px) {
+	.clippedDiv {
+		left: 4px;
+	}
+	.metrocity .insideBus button.customBtn {margin: 7% auto 7% !important;}
+	.sliderNextPrev .item .info {
+		min-height: 400px;
+	}
+	.tab-pane {
+		padding-top: 2% !important
+	}
+	.metrocity .tab-pane, .metrodecker .tab-pane {
+		padding-top: 0% !important;
+	}
+	.subHeading {
+		font-size: 1.7rem;
+	}
+
+	.downloadBrochure {
+		margin-top: 15%;
+		margin-bottom: 9%;
+	}
+.rightSticky {    top: 14px;}
+.c-section .carousel-caption h2 {font-size: 60px}
+.metrocity-ja .sliderNextPrev .item .info { min-height: 310px;}
+}
+ 
+@media screen and (max-width: 376px) {
+	.rightSticky {
+	     right: 18%;
+	}
+}
+@media screen and (max-width: 370px) {
+	.rightSticky {right: 20%}
+	.sliderNextPrev .item .info {
+		min-height: 400px;
+	}
+
+	
+}
+
+ 
+
+ 
+ 
